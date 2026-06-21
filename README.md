@@ -32,4 +32,5 @@ The circuit was designed and tested in Proteus to verify correct timing and stat
 - State machine implementation
 - Timing control using clock signals
 
-##author yedi_benyam
+## Author 
+Yedi Benyam
